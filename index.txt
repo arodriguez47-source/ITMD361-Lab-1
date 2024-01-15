@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>ITMD-361 Internet Technologies and Web Design</title>
+</head>
+<header>
+  <p>Quick Look Into Angel Rodriguez</p>
+</header>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Hello all who find this website, my name is Angel Rodriguez and I am a senior at Illinois Institute of Technology pursing a CS Major.</p>
+  <p>To be frank I amd a very simple person in nature, as my interests revolve around having a good time and doing my best for those important to me.</p>
+  <p>I enjoy playing games with friends and experiencing new things in the world alongside them. I am a fan of music and enjoy a good challenge/competition, hence my interest in Computer Science.</p>
+  <p>Heres hoping for a good final semseter for me, and in general for all of you!</p>
+</body>
+</html>
